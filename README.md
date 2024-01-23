@@ -1,3 +1,18 @@
+# easy push
+`git add .`
+
+`git commit -m "say hello git in C"`
+
+`git push origin main`
+
+# easy pull
+`git pull`
+
+# easy clone
+`git clone <git-url>`
+
+
+
 # cd your path
 `git init`
 
