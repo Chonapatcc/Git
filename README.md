@@ -14,6 +14,8 @@
 # easy clone
 `git clone <git-url>`
 
+# remove git file
+`rm -rf .git`
 
 
 # cd your path
