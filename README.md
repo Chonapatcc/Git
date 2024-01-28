@@ -18,7 +18,7 @@
 `rm -rf .git`
 
 # remove file in git repo and in filesystem
-`git rm file1.txt`
+`git rm *.exe`
 
 
 # cd your path
