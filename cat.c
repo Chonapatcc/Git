@@ -3,4 +3,5 @@
 int main()
 {
     printf("CATCAT");
+    printf("WOW");
 }
