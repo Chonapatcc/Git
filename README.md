@@ -66,6 +66,23 @@
 # git clone 
 `git clone <git-url>`
 
-[Read more](https://saacsos.notion.site/Git-101-212b336c391446b4a3025ac51111bd54#09066f57efea4c1288123a83bcca2619)
+# git branch
+`git branch <branch-name>`
+### see branch
+`git branch`
+### switch branch
+`git checkout feature`
+
+# git merge
+### to merge feature to main
+`git checkout main`
+
+`git merge feature`
+
+`git push origin main`
+
+[Read more1](https://saacsos.notion.site/Git-101-212b336c391446b4a3025ac51111bd54#09066f57efea4c1288123a83bcca2619)
+
+[Read more2](https://saacsos.notion.site/Git-102-8077dc32f73d429c94ff7fef48723281#3137c92ac1394e5293862feb8046542e)
 
 
