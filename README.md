@@ -81,8 +81,17 @@
 
 `git push origin main`
 
+# create branch without parent history
+
+`git checkout --orphan assets`
+
+# delete branch
+
+`git branch -d <branch>`
+
 [Read more1](https://saacsos.notion.site/Git-101-212b336c391446b4a3025ac51111bd54#09066f57efea4c1288123a83bcca2619)
 
 [Read more2](https://saacsos.notion.site/Git-102-8077dc32f73d429c94ff7fef48723281#3137c92ac1394e5293862feb8046542e)
 
+[Read more3](https://saacsos.notion.site/git102-kasetfair-c0374f5504e7471698ec813959de3e52)
 
