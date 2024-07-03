@@ -1,3 +1,6 @@
+# easy git flow
+```https://danielkummer.github.io/git-flow-cheatsheet/```
+
 # easy push
 `git add .`
 
