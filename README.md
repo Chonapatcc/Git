@@ -31,11 +31,11 @@
 ### lab
 `git config user.name "Your Name"`
 
-`git config user.email "YourEmail@ku.th"`
+`git config user.email "YourEmail@"`
 ### personal
 `git config **--global** user.name "Your Name"`
 
-`git config **--global** user.email "yourmail@ku.th"`
+`git config **--global** user.email "yourmail@"`
 
 # git status 
 `git status`
