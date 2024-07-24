@@ -1,6 +1,9 @@
 # easy git flow
 ```https://danielkummer.github.io/git-flow-cheatsheet/```
 
+# fix unrelated histories
+```git pull origin main --allow-unrelated-histories```
+
 # easy push
 `git add .`
 
